@@ -1,0 +1,7 @@
+Question records: 1011
+Answer source records: 1018
+Aligned records: 1011
+Removed source records: 7
+Removed source entry numbers: 96, 244, 252, 422, 428, 476, 493
+Minimum match score: 73.13
+Matches below 80: 6
